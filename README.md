@@ -42,3 +42,6 @@ Pour informer les visiteurs que le café a été fondé en 2020, ajoutez un él�
 Il y aura deux sections dans le menu, une pour les cafés et une pour les desserts. Ajoutez un élément `section` à l'intérieur de l'élément `main` pour avoir un endroit où mettre tous les cafés disponibles.
 
 
+
+# Étape 9 : Ajouter un titre "Coffee"
+Pour cette étape, créez un élément `<h2>` à l'intérieur de l'élément `<section>` et donnez-lui le texte *"Coffee"*.
