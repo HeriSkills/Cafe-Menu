@@ -33,3 +33,10 @@ Il est temps d'ajouter du contenu au menu. Ajoutez un élément `main` à l'int�
 
 Le nom du café est CAMPER CAFE. Ajoutez un élément `<h1>` à l'intérieur de votre élément `main`. Donnez-lui le nom du café en MAJUSCULES pour le faire ressortir.
 
+
+
+# Étape 7 : Ajouter l'année de fondation
+Pour informer les visiteurs que le café a été fondé en 2020, ajoutez un élément <p> en dessous de l'élément <h1> avec le texte "Est. 2020".
+
+
+
