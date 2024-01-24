@@ -49,3 +49,19 @@ Pour cette étape, créez un élément `<h2>` à l'intérieur de l'élément `<s
 
 # Étape 10 : Prenez le contrôle du style !
 Jusqu'à présent, vos options de présentation et d'apparence étaient limitées. Pour prendre le contrôle, il est temps d'ajouter un élément <style> à l'intérieur de l'élément <head> de votre document HTML.
+
+
+# Étape 11 : Centrer le titre
+Vous pouvez ajouter du style à un élément en le spécifiant dans l'élément <style> et en définissant des propriétés pour celui-ci, comme ceci :
+
+CSS
+élément {
+  propriété: valeur;
+}
+Use code with caution. Learn more
+Centrez votre élément <h1> en définissant sa propriété text-align sur la valeur center.
+
+## Étape 11 : Centrer le titre
+
+Centrez l'élément `<h1>` en définissant sa propriété `text-align` sur la valeur `center` dans l'élément `<style>`.
+
