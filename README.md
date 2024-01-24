@@ -13,3 +13,8 @@ Ajoutez la balise ```<!DOCTYPE html>``` et un élément html avec un attribut la
 
 # Étape 2
 Ajoutez un élément ```head``` dans l'élément ```html```, afin de pouvoir ajouter un élément title. Le texte de l'élément de titre doit être Cafe Menu.
+
+## Étape 3
+Le titre est l'un des éléments qui fournissent des informations supplémentaires non visibles sur la page web, mais qui sont utiles pour les moteurs de recherche ou la façon dont la page s'affiche.
+
+À l'intérieur de l'élément `head`, imbriquez un élément `meta` avec un attribut nommé `charset` ayant pour valeur `utf-8` pour indiquer au navigateur comment encoder les caractères de la page. Notez que les éléments `meta` sont auto-fermants.
