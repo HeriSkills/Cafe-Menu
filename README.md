@@ -23,3 +23,13 @@ Le titre est l'un des éléments qui fournissent des informations supplémentair
 ## Étape 4
 Pour préparer la création d'un contenu réel, ajoutez un élément `body` sous l'élément `head`.
 
+
+## Étape 5
+Il est temps d'ajouter du contenu au menu. Ajoutez un élément `main` à l'intérieur de l'élément `body` existant. Il contiendra éventuellement des informations sur les prix du café et des desserts proposés par le café.
+
+
+
+## Étape 6 : 
+
+Le nom du café est CAMPER CAFE. Ajoutez un élément `<h1>` à l'intérieur de votre élément `main`. Donnez-lui le nom du café en MAJUSCULES pour le faire ressortir.
+
