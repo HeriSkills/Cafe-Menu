@@ -45,3 +45,7 @@ Il y aura deux sections dans le menu, une pour les cafés et une pour les desser
 
 # Étape 9 : Ajouter un titre "Coffee"
 Pour cette étape, créez un élément `<h2>` à l'intérieur de l'élément `<section>` et donnez-lui le texte *"Coffee"*.
+
+
+# Étape 10 : Prenez le contrôle du style !
+Jusqu'à présent, vos options de présentation et d'apparence étaient limitées. Pour prendre le contrôle, il est temps d'ajouter un élément <style> à l'intérieur de l'élément <head> de votre document HTML.
